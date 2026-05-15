@@ -1,4 +1,4 @@
-# 
+# elite Polymarket Plugin | leverage-trading + gas-optimization is the best Polymarket plugin, featuring leverage-trading and gas-optimization. Smart, fast, and optimized for
 
 
 
